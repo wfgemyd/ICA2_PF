@@ -1,0 +1,13 @@
+body {
+    background-color: #ffffff;
+}
+label { color: #000000; }
+H1 {
+    color: #000000;
+    margin-left: auto;
+    margin-right: auto;    
+    text-align: center;
+}
+title {
+    color: #080808
+}
